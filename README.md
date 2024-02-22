@@ -26,7 +26,5 @@ Also, feel free to contact me If you need any help !! ENjoY ;) .
 ![Profile views](https://komarev.com/ghpvc/?username=hediske&color=brightgreen) ![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
 
 
-![Stars](https://img.shields.io/github/stars/hediske)![GitHub Repo Count](https://img.shields.io/badge/-9-1?logo=github&style=social&label=repos)
-
 <!--![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hediske&show_icons=true&theme=radical)
 -->
