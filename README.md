@@ -1,5 +1,5 @@
 <h3 align="left">Presenting myself:</h3>  
-Hi Everyone , Im HeDisk(:E) 😉 . A software engineer student from Tunis, Tunisia . 
+Hi Everyone , Im HeDisk(E:) 😉 . A software engineer student from Tunis, Tunisia . 
 
 Show ❤️ by starring repositories you find good!  
 ⭐️ From [**Mohamed Hedi Aissi**](https://github.com/hediske)  
